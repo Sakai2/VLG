@@ -1,0 +1,1 @@
+g++ test.cpp -I/usr/local/include/igraph -L/usr/local/lib -ligraph -o igraph_test -lm
